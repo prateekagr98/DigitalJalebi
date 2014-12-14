@@ -1,0 +1,42 @@
+body {
+	padding-top: 30px;
+  	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.login-container{
+}
+
+.button{
+	display: inline-block;
+	padding: 6px 10px;
+	border-radius: 4px; 
+	background-color: #00B7FF;
+	color: #FFFFFF;
+}
+
+.picture-container{
+	display: none;
+	margin: auto;
+	width: 1200px;
+	height: 600px;
+	background: #CCCCCC;
+}
+
+.picture-item{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	float: left;
+	width: 150px;
+	height: 150px;
+}
+
+.picture-item-image{
+	width: 150px;
+	height: 150px;
+	background: blue;
+}
