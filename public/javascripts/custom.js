@@ -1,7 +1,7 @@
 var PhotoMatrix = {
 	itemList : [],
 	backItemList : [],
-	maxItemCount : 32,
+	maxItemCount : 28,
 	tag : 'prateek',
 	accessToken : '',
 	url : '',

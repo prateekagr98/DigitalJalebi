@@ -20,8 +20,9 @@ a {
 
 .picture-container{
 	display: none;
+	float: left;
 	margin: auto;
-	width: 1200px;
+	width: 1050px;
 	height: 600px;
 	background: #CCCCCC;
 }
@@ -39,4 +40,10 @@ a {
 	width: 150px;
 	height: 150px;
 	background: blue;
+}
+
+.twitter-feed{
+	float: left;
+	margin-left: 20px;
+	max-height: 300px !important;
 }
